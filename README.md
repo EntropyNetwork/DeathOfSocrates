@@ -1,2 +1,4 @@
 # DeathOfSocrates
-My WIP Adventure Game Where You Play Socrates
+My WIP Adventure Game Where You Play Socrates. In Bethesda games there was often this leet feature where you could kill a main quest NPC and get this sudden message about how the main quest was no longer something you could complete. This had many awesome implications, including that scrubs would effectively be permakilled for build if they hadn't saved sufficiently close to their decision to kill the NPC. I had hours of game time ruint by this in 'Oblivion.' This adventure game is heavily inspired by that, and by Fyodor Doestoevsky's 'The Idiot'.
+
+Using the Unfinished-is-Finished principle, play as Socrates as he makes choices beginning with whether or not to drink hemlock. Use the exciting OhNoParsy text processor through at least one text adventure sequence! "ATHENS IS YOURS."~Dave
